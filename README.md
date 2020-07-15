@@ -1,4 +1,4 @@
-#NetworkByteOrderSum
+# NetworkByteOrderSum
 ### Usage
 ```
 cmake .
